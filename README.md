@@ -1,6 +1,6 @@
 ## Teste de lógica
 
-O teste consistem criar um mecanismo de Vending Machine, onde eu tenho uma quantidade de moedas disponiveis e baseado no valor do troco que necessicito devolver ao consumidor, caba ao mecanismo selecionar e exibir quais as moedas ele devolve.
+O teste consiste em criar um mecanismo de Vending Machine, onde eu tenho uma quantidade de moedas disponiveis e baseado no valor do troco que necessicito devolver ao consumidor, cabe ao mecanismo selecionar e exibir quais as moedas ele devolve.
 
 ### Requisitos
 * NodeJS
