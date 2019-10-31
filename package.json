@@ -1,0 +1,14 @@
+{
+  "name": "teste-logica-verios",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/llldc21/teste-logica-verios.git",
+  "author": "Lucas Lima <llldc21@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon core.js"
+  },
+  "dependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
