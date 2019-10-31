@@ -25,7 +25,7 @@ No arquivo *core.js* temos duas variaveis passiveis de alteração:
 
 1. Moedas - um array de objetos, contendo *value* e *qntd*, esse parametros indicam que uma moeda tem um valor (ex. R$ 1.00 real) e também uma quantidade (ex. 10 moedas de R$ 1.00 real). Esses campos podem ser amplamente explorados e configurados ao seu gosto.
 
-2. Troco - uma variavel que vai receber o valor que a aplicação necessita devolver ao usuario, ou seja o troco de sua compra. Recomendo que sempre optem, quando configurarem, a manter o tipo dela como *float*. 
+2. Troco - uma variavel que vai receber o valor que a aplicação necessita devolver ao usuario, ou seja o troco de sua compra. Recomendo que sempre optem, quando configurarem, por manter o tipo dela como *float*. 
 
 Após essa alterações é necessario, para o funcionamento da aplicação, que se rode o comando:
 ```
